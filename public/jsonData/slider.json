@@ -1,0 +1,158 @@
+[{
+        "Id": 1,
+        "Title": "They Shall Not Grow Old",
+        "Year": 2018,
+        "Rated": "R",
+        "Released": "01 Feb 2019",
+        "Runtime": "99 min",
+        "Genre": "Documentary, History, War",
+        "Director": "Peter Jackson",
+        "Writer": "Peter Jackson",
+        "Actors": "Mark Kermode, Peter Jackson",
+        "Plot": "A documentary about World War I with never-before-seen footage to commemorate the centennial of the end of the war.",
+        "Language": "English",
+        "Country": "UK, New Zealand",
+        "Awards": "Nominated for 1 BAFTA Film Award. Another 4 wins & 10 nominations.",
+        "Poster": "/images/slider/1.jpg",
+        "Ratings": [{
+                "Source": "Internet Movie Database",
+                "Value": "8.3/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "100%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "91/100"
+            }
+        ],
+        "Metascore": 91,
+        "imdbRating": 8.3,
+        "imdbVotes": "21,722",
+        "imdbID": "tt7905466",
+        "Type": "movie",
+        "DVD": "N/A",
+        "BoxOffice": "N/A",
+        "Production": "Warner Bros. Pictures",
+        "Response": "True"
+    },
+    {
+        "Id": 2,
+        "Title": "Midnight Family",
+        "Year": 2019,
+        "Rated": "N/A",
+        "Released": "06 Dec 2019",
+        "Runtime": "81 min",
+        "Genre": "Documentary, Action, Crime, Drama",
+        "Director": "Luke Lorentzen",
+        "Writer": "Luke Lorentzen",
+        "Actors": "Fer Ochoa, Josue Ochoa, Juan Ochoa",
+        "Plot": "In Mexico City's wealthiest neighborhoods, the Ochoa family runs a private ambulance, competing with other for-profit EMTs for patients in need of urgent help.",
+        "Language": "Spanish",
+        "Country": "Mexico",
+        "Awards": "24 wins & 20 nominations.",
+        "Poster": "/images/slider/2.jpg",
+        "Ratings": [{
+                "Source": "Internet Movie Database",
+                "Value": "7.8/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "100%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "84/100"
+            }
+        ],
+        "Metascore": 84,
+        "imdbRating": 7.7,
+        "imdbVotes": 330,
+        "imdbID": "tt6010976",
+        "Type": "movie",
+        "DVD": "N/A",
+        "BoxOffice": "N/A",
+        "Production": 1091,
+        "Response": "True"
+    },
+    {
+        "Id": 3,
+        "Title": "Pain & Gain",
+        "Year": 2013,
+        "Rated": "R",
+        "Released": "26 Apr 2013",
+        "Runtime": "129 min",
+        "Genre": "Action, Comedy, Crime, Drama",
+        "Director": "Michael Bay",
+        "Writer": "Christopher Markus (screenplay), Stephen McFeely (screenplay), Pete Collins (based on the magazine articles by)",
+        "Actors": "Mark Wahlberg, Dwayne Johnson, Anthony Mackie, Tony Shalhoub",
+        "Plot": "A trio of bodybuilders in Florida get caught up in an extortion ring and a kidnapping scheme that goes terribly wrong.",
+        "Language": "English",
+        "Country": "USA",
+        "Awards": "4 nominations.",
+        "Poster": "/images/slider/3.jpg",
+        "Ratings": [{
+                "Source": "Internet Movie Database",
+                "Value": "6.4/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "50%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "45/100"
+            }
+        ],
+        "Metascore": 45,
+        "imdbRating": 6.4,
+        "imdbVotes": "191,388",
+        "imdbID": "tt1980209",
+        "Type": "movie",
+        "DVD": "27 Aug 2013",
+        "BoxOffice": "$49,300,000",
+        "Production": "Paramount Studios",
+        "Response": "True"
+    },
+    {
+        "Id": 4,
+        "Title": "The Irishman",
+        "Year": 2019,
+        "Rated": "R",
+        "Released": "27 Nov 2019",
+        "Runtime": "209 min",
+        "Genre": "Biography, Crime, Drama",
+        "Director": "Martin Scorsese",
+        "Writer": "Steven Zaillian (screenplay), Charles Brandt (book)",
+        "Actors": "Robert De Niro, Al Pacino, Joe Pesci, Harvey Keitel",
+        "Plot": "A mob hitman recalls his possible involvement with the slaying of Jimmy Hoffa.",
+        "Language": "English, Italian, Latin, Spanish",
+        "Country": "USA",
+        "Awards": "Nominated for 5 Golden Globes. Another 35 wins & 159 nominations.",
+        "Poster": "/images/slider/4.jpg",
+        "Ratings": [{
+                "Source": "Internet Movie Database",
+                "Value": "8.2/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "96%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "94/100"
+            }
+        ],
+        "Metascore": 94,
+        "imdbRating": 8.2,
+        "imdbVotes": "144,536",
+        "imdbID": "tt1302006",
+        "Type": "movie",
+        "DVD": "27 Nov 2019",
+        "BoxOffice": "N/A",
+        "Production": "Netflix",
+        "Response": "True"
+    }
+ 
+]

@@ -1,0 +1,23 @@
+.pageTitle {
+    text-transform: uppercase;
+    display: flex;
+    justify-content: center;
+    font-family: 'montserrat', 'sans-serfi';
+    font-size: 2vw;
+    padding: 8px;
+    color: white;
+}
+
+.search {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    width: 95%;
+    margin: 0 auto;
+}
+
+@media (max-width:1000px) {
+    .pageTitle {
+        font-size: 6.4vw;
+    }
+}
